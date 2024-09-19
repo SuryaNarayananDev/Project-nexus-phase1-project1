@@ -139,7 +139,7 @@ const SignUp = () => {
 
             <div className="d-flex align-items-center mt-3 mb-3 ">
               <div className="row w-100">
-                <div className="col-md-6">
+                <div className="col-md-6 pr-0">
                   <Button
                     type="submit"
                     // disabled={isLoading === true ? true : false}
